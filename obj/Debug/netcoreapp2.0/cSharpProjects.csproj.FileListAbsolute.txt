@@ -1,0 +1,10 @@
+/Users/brookeusher/Desktop/cSharpProjects/bin/Debug/netcoreapp2.0/cSharpProjects.deps.json
+/Users/brookeusher/Desktop/cSharpProjects/bin/Debug/netcoreapp2.0/cSharpProjects.runtimeconfig.json
+/Users/brookeusher/Desktop/cSharpProjects/bin/Debug/netcoreapp2.0/cSharpProjects.runtimeconfig.dev.json
+/Users/brookeusher/Desktop/cSharpProjects/bin/Debug/netcoreapp2.0/cSharpProjects.dll
+/Users/brookeusher/Desktop/cSharpProjects/bin/Debug/netcoreapp2.0/cSharpProjects.pdb
+/Users/brookeusher/Desktop/cSharpProjects/obj/Debug/netcoreapp2.0/cSharpProjects.csproj.CoreCompileInputs.cache
+/Users/brookeusher/Desktop/cSharpProjects/obj/Debug/netcoreapp2.0/cSharpProjects.AssemblyInfoInputs.cache
+/Users/brookeusher/Desktop/cSharpProjects/obj/Debug/netcoreapp2.0/cSharpProjects.AssemblyInfo.cs
+/Users/brookeusher/Desktop/cSharpProjects/obj/Debug/netcoreapp2.0/cSharpProjects.dll
+/Users/brookeusher/Desktop/cSharpProjects/obj/Debug/netcoreapp2.0/cSharpProjects.pdb
